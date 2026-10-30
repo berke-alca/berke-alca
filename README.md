@@ -21,10 +21,12 @@ At 42 there are no teachers and no lectures: I learn by building projects from a
 
 ## 🧱 42 Common Core
 
+All Common Core projects live together in **[CoreCurriculum](https://github.com/berke-alca/CoreCurriculum)**, one folder per project.
+
 | Project | What it is | Status |
 | :--- | :--- | :---: |
-| [libft](https://github.com/berke-alca/libft) | My own C library: libc functions rebuilt from scratch, string helpers and linked lists | ✅ |
-| [get_next_line](https://github.com/berke-alca/get_next_line) | Reads any file descriptor line by line, using a `static` buffer between calls | ✅ |
+| [libft](https://github.com/berke-alca/CoreCurriculum/tree/main/libft) | My own C library: libc functions rebuilt from scratch, string helpers and linked lists | ✅ |
+| [get_next_line](https://github.com/berke-alca/CoreCurriculum/tree/main/get_next_line) | Reads any file descriptor line by line, using a `static` buffer between calls | ✅ |
 | ft_printf | My own `printf` with variadic arguments | 🔄 |
 
 ## 🏊 42 Piscine
