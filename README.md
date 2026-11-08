@@ -35,3 +35,5 @@ All Common Core projects live together in **[CoreCurriculum](https://github.com/
 | Project | What it is | Status |
 | :--- | :--- | :---: |
 | [42-Piscine](https://github.com/berke-alca/42-Piscine) | The 4-week selection bootcamp: C from zero, from `write` to `malloc` | ✅ |
+
+<!-- test -->
