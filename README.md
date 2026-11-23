@@ -5,17 +5,20 @@ Software engineering student at **[42 Heilbronn](https://www.42heilbronn.de)**, 
 At 42 there are no teachers and no lectures: I learn by building projects from a written subject, testing them myself and defending them in peer evaluations with other students.
 
 - 🔨 **Currently working on:** `python00` & `python01`
-- 🌱 **Learning:** C, memory management, Unix, and next: Python
+- 🌱 **Learning:** C, Python, memory management and Unix
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Berke%20Alca-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-alca-11a065178)
 
 ## 🛠️ Tech
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Make](https://img.shields.io/badge/Makefile-427819?style=flat&logo=gnu&logoColor=white)
+
+**Coming up in the Core Curriculum:** C++ and object-oriented programming, processes, threads and concurrency, a Unix shell of my own, 2D/3D graphics, networking and system administration, Docker, and a full-stack web app with a database.
 
 ---
 
