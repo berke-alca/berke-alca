@@ -4,7 +4,7 @@ Software engineering student at **[42 Heilbronn](https://www.42heilbronn.de)**, 
 
 At 42 there are no teachers and no lectures: I learn by building projects from a written subject, testing them myself and defending them in peer evaluations with other students.
 
-- 🔨 **Currently working on:** `python00` & `python01`
+- 🔨 **Currently working on:** `python01`
 - 🌱 **Learning:** C, memory management, Unix, and next: Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Berke%20Alca-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berke-alca-11a065178)
@@ -29,7 +29,7 @@ All Common Core projects live together in **[CoreCurriculum](https://github.com/
 | [get_next_line](https://github.com/berke-alca/CoreCurriculum/tree/main/get_next_line) | Reads any file descriptor line by line, using a `static` buffer between calls | ✅ |
 | [ft_printf](https://github.com/berke-alca/CoreCurriculum/tree/main/ft_printf) | My own `printf` with variadic arguments | ✅ |
 | [push_swap](https://github.com/berke-alca/CoreCurriculum/tree/main/push_swap) | Sorts integers with two stacks and a small set of operations, in as few moves as possible | ✅ |
-| [python00](https://github.com/berke-alca/CoreCurriculum/tree/main/python00) | My first Python module: the basics of the language, from syntax and data types to functions | 🔄 |
+| [python00](https://github.com/berke-alca/CoreCurriculum/tree/main/python00) | My first Python module: the basics of the language, from syntax and data types to functions | ✅ |
 | [python01](https://github.com/berke-alca/CoreCurriculum/tree/main/python01) | My second Python module: object-oriented programming with classes, built around a small garden simulation | 🔄 |
 
 ## 🏊 42 Piscine
